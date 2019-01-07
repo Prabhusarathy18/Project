@@ -1,0 +1,7 @@
+roll 	name 	cibil
+1    	prabhu   500
+2       nithesh  700
+3 	Nandha	 300
+4 	Naveen	 200
+5	Mothi	 100
+6	Shankar  200
