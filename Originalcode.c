@@ -57,7 +57,7 @@ char type[20];	    //to store the type of account
 float bal;	        //to store the balance	
 char credicardstatus[5];
 }e;
-ptr=fopen("sample.txt","r");
+ptr=fopen("selected.txt","r");
 if(ptr==NULL)
 {
  printf("Cannot open file");
