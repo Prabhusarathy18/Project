@@ -1,0 +1,4 @@
+accno  		name     cibil   type   bal   credicardstatus
+123456789	prabhu	  500    sb   5000   no
+123456788       naveen    300    sb   1000   no
+123456777       shankar   200    sb   6000   yes
